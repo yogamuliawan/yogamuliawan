@@ -23,7 +23,7 @@ I am a Software Engineer study at TAFE NSW for Electrical Engineering Major, i h
      <a href="https://foodixie.com">
         <img src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=Stadia&logoColor=white" />
     </a>&nbsp;&nbsp;
-    <a href="https://linkedin.com/in/yogamuliawan">
+    <a href="https://www.linkedin.com/in/yoga-muliawan-a385b8168/">
        <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" />
     </a>&nbsp;&nbsp;
     <a href="https://twitter.com/yogamuliawan">
@@ -32,7 +32,12 @@ I am a Software Engineer study at TAFE NSW for Electrical Engineering Major, i h
     <a href="https://foodixie.com">
         <img src="https://img.shields.io/badge/My%20Blogs-3b5998?style=for-the-badge&logo=Stadia&logoColor=white" />
     </a>
+     <a href="https://instagram.com/yogamuliawan">
+        <img src="https://img.shields.io/badge/My%20Blogs-3b5998?style=for-the-badge&logo=Instagram&logoColor=white" />
+    </a>
 </p>
+
+Download latest Foodixie IOS (Machine Learning App) [Foodixie](https://apps.apple.com/au/app/foodixie/id1523491865)
 
 Hit me up on instagram [@yogamuliawan](https://instagram.com/yogamuliawan)
 
