@@ -31,13 +31,13 @@ I am a Software Engineer study at TAFE NSW for Electrical Engineering Major, i h
     </a>&nbsp;&nbsp;
     <a href="https://foodixie.com">
         <img src="https://img.shields.io/badge/My%20Blogs-3b5998?style=for-the-badge&logo=Stadia&logoColor=white" />
-    </a>
+    </a>&nbsp;&nbsp;
      <a href="https://instagram.com/yogamuliawan">
         <img src="https://img.shields.io/badge/My%20Blogs-3b5998?style=for-the-badge&logo=Instagram&logoColor=white" />
     </a>
 </p>
 
-Download latest Foodixie IOS (Machine Learning App) [Foodixie](https://apps.apple.com/au/app/foodixie/id1523491865)
+Download latest [Foodixie](https://apps.apple.com/au/app/foodixie/id1523491865) IOS (Machine Learning App) 
 
 Hit me up on instagram [@yogamuliawan](https://instagram.com/yogamuliawan)
 
