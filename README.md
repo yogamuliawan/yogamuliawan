@@ -15,8 +15,6 @@
 
 <br>
 
-I am a Software Engineer study at TAFE NSW for Electrical Engineering Major, i have developed DevOps, Custom Mobile Application (IOS & Android) and multiple dashboard web-based platform. Currently working project Food Recipes with Machine Learning Technology [@foodixie](https://foodixie.com/) ☘️
-
 Hi Everyone ! 
 Let's have a chat and the coffee always on me!
 
