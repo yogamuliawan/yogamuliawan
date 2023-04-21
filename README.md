@@ -15,9 +15,6 @@
 
 <br>
 
-Hi Everyone ! 
-Let's have a chat and the coffee always on me!
-
 Currently building [@foodixie](https://foodixie.com/) ☘️ & [@tourbyme](https://tourbyme.com/) ☘️
 
 -----------
