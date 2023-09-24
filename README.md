@@ -1,6 +1,5 @@
 ### Hi there, I'm `Yoga` 👋
  
-
 <p align="center">
 </p>
 
@@ -15,7 +14,7 @@
 
 <br>
 
-Currently building [@foodixie](https://foodixie.com/) ☘️ & [@tourbyme](https://tourbyme.com/) ☘️
+Currently building [@foodixie](https://foodixie.com/) ☘️ & [@tourbyme](https://tourbyme.com/) ☘️ [@arcanetify](https://arcanetify.com/) ☘️
 
 -----------
 
@@ -36,9 +35,3 @@ Currently building [@foodixie](https://foodixie.com/) ☘️ & [@tourbyme](https
         <img src="https://img.shields.io/badge/My%20Blogs-3b5998?style=for-the-badge&logo=Instagram&logoColor=white" />
     </a>
 </p>
-
-Download latest [Foodixie](https://apps.apple.com/au/app/foodixie/id1523491865) IOS (Machine Learning App) 
-
-Hit me up on instagram [@yogamuliawan](https://instagram.com/yogamuliawan)
-
-
